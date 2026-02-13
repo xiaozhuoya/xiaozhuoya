@@ -1,6 +1,6 @@
 # Hello, I'm Jie Zhuo
 
-A front-end development engineer Generative AI enthusiast
+A front-end development engineer and Generative AI enthusiast
 
 Currently learning :
 
